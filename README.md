@@ -693,7 +693,7 @@ custom_class.do_some_stuff()
 ```
 
 ## MailBox
-Mailbox groups the funcionality of both the messages and the email folders.
+Mailbox groups the functionality of both the messages and the email folders.
 
 These are the scopes needed to work with the `MailBox` and `Message` classes.
 
